@@ -1,27 +1,40 @@
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#091921">
+    <link rel="stylesheet" href="./style.css">
     <title>Clock</title>
-    <link rel="stylesheet" href="Style.css">
 </head>
+
 <body>
-<div>
-    <div style="padding-left: 1300px; padding-top: 30px">
-        <label class="label">
-            <div class="toggle">
-                <input class="toggle-state" type="checkbox" name="check" value="check">
-                <div class="indicator"></div>
-            </div>
-        </label>
-    </div>
-    <div>
-        <div>
-           <div></div>
+<div class="clock">
+
+    <div class="hour">
+        <div class="hr" id="hr">
+
         </div>
     </div>
-</div>
 
+    <div class="min">
+        <div class="mn" id="mn">
+
+        </div>
+    </div>
+
+    <div class="sec">
+        <div class="sc" id="sc">
+
+        </div>
+    </div>
+
+</div>
+<div class="toggleClass" onclick="toggleClass()"></div>
+<script src="./main.js"></script>
 
 </body>
+
 </html>

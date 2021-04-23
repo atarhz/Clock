@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b3fb078-a2da-4a01-9896-e222cb5640a3" name="Default Changelist" comment="second commit to connect git">
-      <change afterPath="$PROJECT_DIR$/.idea/Ata-Clock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+    <list default="true" id="9b3fb078-a2da-4a01-9896-e222cb5640a3" name="Default Changelist" comment="Toggle done!">
+      <change afterPath="$PROJECT_DIR$/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,7 +51,9 @@
       <updated>1618763103497</updated>
       <workItem from="1618763104692" duration="671000" />
       <workItem from="1618764391655" duration="118000" />
-      <workItem from="1618806952991" duration="3368000" />
+      <workItem from="1618806952991" duration="3847000" />
+      <workItem from="1619165320868" duration="124000" />
+      <workItem from="1619202819236" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="first commit to connect git">
       <created>1618763567457</created>
@@ -68,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618763738449</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Toggle done!">
+      <created>1618810504802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618810504802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit to connect git" />
     <MESSAGE value="second commit to connect git" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit to connect git" />
+    <MESSAGE value="Toggle done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Toggle done!" />
   </component>
 </project>
