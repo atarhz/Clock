@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b3fb078-a2da-4a01-9896-e222cb5640a3" name="Default Changelist" comment="Clock Done!">
+    <list default="true" id="9b3fb078-a2da-4a01-9896-e222cb5640a3" name="Default Changelist" comment="sth edited">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
       <workItem from="1619327299863" duration="8000" />
       <workItem from="1619732764447" duration="90000" />
       <workItem from="1620750410109" duration="22000" />
+      <workItem from="1621412951781" duration="2045000" />
     </task>
     <task id="LOCAL-00001" summary="first commit to connect git">
       <created>1618763567457</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619203510409</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sth edited">
+      <created>1621413045584</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621413045584</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +114,7 @@
     <MESSAGE value="second commit to connect git" />
     <MESSAGE value="Toggle done!" />
     <MESSAGE value="Clock Done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clock Done!" />
+    <MESSAGE value="sth edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="sth edited" />
   </component>
 </project>
